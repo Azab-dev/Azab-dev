@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafa Azab  
 
-<!--
-**Azab-dev/Azab-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Full Stack Developer** | MERN & Next.js Specialist  
+🚀 Passionate about building high-quality web applications that combine great UI/UX with solid backend architecture.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Shadcn/ui  
+- **Backend:** Node.js, Express, MongoDB, WebSocket  
+- **Other:** Sanity CMS, Clerk Auth, Stripe API, Cloudinary  
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| **E-Commerce Full-Stack** | A modern online store with Sanity CMS, authentication, and Stripe payments. | Next.js, MERN, Sanity, Clerk, Stripe |
+| **Fullstack Chat App** | Real-time one-to-one chat with image upload and JWT authentication. | React, Node.js, Express, MongoDB, Socket.IO, Cloudinary |
+| **AI SaaS Platform** | SaaS app with AI features and subscription plans. | Next.js, TypeScript, Stripe, Clerk, MongoDB |
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/mostafaazab](https://linkedin.com/in/mostafaazab)  
+- **Portfolio:** [YourPortfolioLinkHere.com](https://yourportfoliolink.com)  
+- **Email:** mostafa.azab@example.com  
+
+---
+
+⭐ _Feel free to check my repositories and drop a star if you like my work!_
