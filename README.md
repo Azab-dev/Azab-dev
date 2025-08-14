@@ -28,27 +28,23 @@ Hi! I'm **Mostafa Azab**, a passionate **Full-Stack Developer** specialized in t
 
 ## 🚀 Featured Projects
 
-### 🛒 [E-Commerce Full-Stack](https://your-live-link.com)
+### 🛒 [E-Commerce Full-Stack](https://github.com/Azab-dev/shopcart)
 Tech Stack: Next.js + Sanity + Stripe + Clerk  
-![Preview](https://github.com/Azab-dev/shopcart)
 
 ---
 
-### 💬 [Chat Application](https://your-live-link.com)
+### 💬 [Chat Application](https://github.com/Azab-dev/chat-app-fullstack)
 Tech Stack: React + WebSocket + Cloudinary  
-![Preview](https://github.com/Azab-dev/chat-app-fullstack)
 
 ---
 
-### 📊 [SaaS AI Platform](https://your-live-link.com)
+### 📊 [SaaS AI Platform](https://github.com/Azab-dev/saas_converso)
 Tech Stack: Next.js + TypeScript + Tailwind + Stripe  
-![Preview](https://github.com/Azab-dev/saas_converso)
 
 ---
 
-### 📊 [Portfolio](https://your-live-link.com)
+### 📊 [Portfolio](https://github.com/Azab-dev/portfolio)
 Tech Stack: Next.js + TypeScript + Tailwind + Stripe  
-![Preview](https://github.com/Azab-dev/portfolio)
 
 ---
 
