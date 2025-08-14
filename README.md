@@ -1,31 +1,51 @@
-# 👋 Hi, I'm Mostafa Azab  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mostafa%20Azab&fontSize=40&fontAlignY=35&desc=Junior%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50" />
+</p>
 
-💻 **Junior Full Stack Developer** | MERN & Next.js Specialist  
-🚀 Passionate about building high-quality web applications that combine great UI/UX with solid backend architecture.  
-
----
-
-## 🛠️ Tech Stack
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Shadcn/ui  
-- **Backend:** Node.js, Express, MongoDB, WebSocket  
-- **Other:** Sanity CMS, Clerk Auth, Stripe API, Cloudinary  
-
----
-
-## 📌 Featured Projects
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| **E-Commerce Full-Stack** | A modern online store with Sanity CMS, authentication, and Stripe payments. | Next.js, MERN, Sanity, Clerk, Stripe |
-| **Fullstack Chat App** | Real-time one-to-one chat with image upload and JWT authentication. | React, Node.js, Express, MongoDB, Socket.IO, Cloudinary |
-| **AI SaaS Platform** | SaaS app with AI features and subscription plans. | Next.js, TypeScript, Stripe, Clerk, MongoDB |
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/mostafaazab](https://linkedin.com/in/mostafaazab)  
-- **Portfolio:** [YourPortfolioLinkHere.com](https://yourportfoliolink.com)  
-- **Email:** mostafa.azab@example.com  
+## 👋 About Me
+Hi! I'm **Mostafa Azab**, a passionate **Full-Stack Developer** specialized in the **MERN Stack**, with experience in building professional-grade applications such as:
+- Fully functional **E-Commerce platforms**.
+- **SaaS platforms** with Stripe payments and Clerk authentication.
+- Real-time interactive apps using **WebSockets**.
 
 ---
 
-⭐ _Feel free to check my repositories and drop a star if you like my work!_
+## 🚀 Featured Projects
+
+### 🛒 [E-Commerce Full-Stack](https://your-live-link.com)
+Tech Stack: Next.js + Sanity + Stripe + Clerk  
+
+---
+
+### 💬 [Chat Application](https://your-live-link.com)
+Tech Stack: React + WebSocket + Cloudinary  
+
+---
+
+### 📊 [SaaS AI Platform](https://your-live-link.com)
+Tech Stack: Next.js + TypeScript + Tailwind + Stripe  
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
