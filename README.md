@@ -52,6 +52,4 @@ Tech Stack: Next.js + TypeScript + Tailwind + Stripe
 <p align="center">
   <p>mostafaazab73@gmail.com</p>
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <img src="https://portfolio-r892l4n0q-azabs-projects-a7a66868.vercel.app/" alt="Portfolio" />
-
 </p>
