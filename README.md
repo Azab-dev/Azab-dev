@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mostafa%20Azab&fontSize=40&fontAlignY=35&desc=Junior%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mostafa%20Azab&fontSize=40&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- Badges -->
